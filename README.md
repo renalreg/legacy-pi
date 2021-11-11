@@ -31,6 +31,6 @@ Run on the repository root:
 
 ```
 dumb-pypi --package-list <(ls packages) \
-    --packages-url https://raw.githubusercontent.com/renalreg/legacy-pi/packages \
+    --packages-url https://github.com/renalreg/legacy-pi/raw/main/packages \
     --output-dir .
 ```
